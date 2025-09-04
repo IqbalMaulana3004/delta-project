@@ -10,8 +10,8 @@ Route::get('/delta-barito', function() {
     return view('delta-barito');
 });
 
-Route::get('/delta-indo', function() {
-    return view('delta-indo');
+Route::get('/delta-borneo', function() {
+    return view('delta-borneo');
 });
 
 Route::get('/delta-marine', function() {
